@@ -14,6 +14,7 @@ class subjects:
     subForSY = []
     subForTY = []
     teachers = []
+    listOfList = []
     pass
 
 if __name__ == '__main__':
